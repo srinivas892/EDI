@@ -22,7 +22,7 @@ void save(){
 		printf("\n\nenter the name for score %d\nEnter name: ",score);
 		scanf("%s",name);
 
-		fprintf(fptr,"\nName: %s score:  %d \n",name,score);
+		fprintf(fptr,"\nName: %s \n score:  %d \n",name,score);
 	fclose(fptr);
 	      system("cls");
 	      fflush(stdin);
