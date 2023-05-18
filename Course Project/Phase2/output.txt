@@ -1,0 +1,10 @@
+hello world
+
+
+ terminated normally. No Error
+
+
+ terminated abnormally due to Operation Code Error
+IC=8, IR=, C=0, R=__, TTL=16, TTC=9, TLL=1, LLC=0
+
+ terminated abnormally due to Time Limit Exceeded
